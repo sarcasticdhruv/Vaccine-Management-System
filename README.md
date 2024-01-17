@@ -18,7 +18,7 @@ The Vaccination Management System is a Python-based application designed for man
 
 1. Clone the repository to your local machine.
    ```
-   git clone https://github.com/your-username/vaccination-management-system.git
+   git clone https://github.com/sarcasticdhruv/Vaccine-Management-System/tree/main
    ```
 
 2. Install the required dependencies.
