@@ -118,6 +118,7 @@ def sub_main():
                 print("Error!!!")
                 pass
 
+
 # display menu
 def display_menu():
     print('--------------------------------------------------------------------------------------------')
@@ -159,7 +160,6 @@ def feedback():
     feedfile.writelines(feed_list)
     feedfile.writelines("\n")
     feedfile.close()
-    
     print("Thank You for your Feedback\n")
     
 # accessing Vaccine doses
